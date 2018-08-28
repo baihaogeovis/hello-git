@@ -7,3 +7,5 @@ and update to remote server from local 8/28
 
 and update from github client
 
+and update from github client by new branch
+
